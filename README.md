@@ -3,7 +3,7 @@ Generative Adversarial Networks for art Generation
 
 # Artistic GAN: Generative Adversarial Networks for Masterpiece Generation
 
-This project leverages Generative Adversarial Networks (GANs) to create pieces of art across various genres. By training on a diverse dataset, the GAN model learns to generate artworks that mimic styles ranging from Renaissance to Pop Art. This repository contains the code and models used to train and generate these unique pieces of art.
+This project uses Generative Adversarial Networks (GAN) to create pieces of art across various genres. By training on a diverse dataset, the GAN model learns to generate artworks that mimic styles ranging from Renaissance to Pop Art. This repository contains the code and models used to train and generate these unique pieces of art.
 
 
 ## Table of Contents
