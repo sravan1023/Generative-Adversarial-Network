@@ -33,10 +33,10 @@ This project leverages Generative Adversarial Networks (GANs) to create pieces o
 2. **Create a virtual environment**:
 
     python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    venv\Scripts\activate
 
 
-3. **Install dependencies**:
+4. **Install dependencies**:
 
     pip install -r requirements.txt
 
